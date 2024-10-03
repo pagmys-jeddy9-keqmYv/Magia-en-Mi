@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paz en mi - Sanación y Crecimiento</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f4e9;
+            color: #4b3832;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #d9b08c;
+            text-align: center;
+            padding: 2em 0;
+        }
+        header h1 {
+            font-size: 2.5em;
+            color: #4b3832;
+        }
+        nav {
+            margin-top: 20px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #4b3832;
+            font-size: 1.2em;
+        }
+        .hero {
+            text-align: center;
+            padding: 4em 2em;
+            background-color: #e4d1a4;
+        }
+        .hero h2 {
+            font-size: 2em;
+            color: #4b3832;
+        }
+        .content {
+            padding: 2em;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .content h3 {
+            font-size: 1.8em;
+            color: #4b3832;
+        }
+        .content p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            padding: 2em 0;
+            background-color: #d9b08c;
+            color: #4b3832;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Paz en mi</h1>
+        <nav>
+            <a href="#sanacion">Sanación Profunda</a>
+            <a href="#creerenti">Creer en Ti</a>
+            <a href="#contacto">Contacto</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Bienvenidos a Paz en mi</h2>
+        <p>Encuentra la paz y la armonía en tu interior a través de nuestros talleres de sanación y crecimiento personal.</p>
+    </section>
+
+    <section id="sanacion" class="content">
+        <h3>Taller de Sanación Profunda</h3>
+        <p>Nuestro taller de sanación profunda te guiará hacia la liberación emocional y el equilibrio espiritual. A través de técnicas holísticas, te ayudamos a sanar heridas profundas y reconectar con tu esencia.</p>
+    </section>
+
+    <section id="creerenti" class="content">
+        <h3>Taller Creer en Ti</h3>
+        <p>En este taller te ayudamos a descubrir tu poder interior y a fortalecer tu confianza. Aprende a creer en ti mismo y a manifestar tus sueños con seguridad y claridad.</p>
+    </section>
+
+    <footer id="contacto">
+        <p>Contáctanos para más información sobre nuestros talleres y cómo podemos ayudarte en tu camino espiritual.</p>
+        <p>Email: contacto@pazenmi.com | Teléfono: 123-456-7890</p>
+    </footer>
+
+</body>
+</html>
